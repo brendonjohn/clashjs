@@ -1,5 +1,6 @@
 module.exports = {
   javierbyte: require('./players/javierbyte.js'),
+  tisScratch: require('./players/tis_scratch.js'),
   horror: require('./players/horror.js'),
   jgroom33: require('./players/jgroom33.js'),
   will3: require('./players/will3.js'),
